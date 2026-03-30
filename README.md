@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamzafar019
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 AI Engineer | BS AI - FAST | Python, ML, Deep Learning
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me mhz15019@gmail.com
 
